@@ -27,7 +27,6 @@ I am a full stack web developer and I use technologies like HTML5 , CSS3 , JavaS
 
 ![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav0907&layout=compact&theme=light)
 
-![counter](https://[YourEndpoint].m.pipedream.net)
 
 ### PINNED
 
