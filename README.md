@@ -2,7 +2,7 @@
 
 ##                     Hi there 🤗 , I am Rishav Saha
 
-## I am a full stack web developer , cross platform app developer , learning Machine Learning and have a huge interest in digital forensics and cyber security stuffs. I am currently pursuing my Engineering in Computer Science from UNIVERSITY OF ENGINEERING AND MANAGEMENT
+## I am a full stack web developer , cross platform app developer , learning Machine Learning and have a huge interest in digital forensics and cyber security stuffs. I am currently pursuing my M.Tech in Artificial Intelligence from INDIAN INSTITUTE OF SCIENCE , BANGALORE
 
 ### BIO
 
